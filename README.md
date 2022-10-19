@@ -1,0 +1,2 @@
+# LojaGames
+CRUD
